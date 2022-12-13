@@ -1,6 +1,6 @@
 # Formulário em HTML e CSS
 
-Projeto se trata de um formulário para inscrição em uma Newsletter (um tipo de email informativo).
+Projeto se trata de um formulário para inscrição em uma Newsletter (um tipo de email informativo). Obs: Projeto criado apenas como design, sem parte funcional com JavaScript!
 
 <img src="preview.png"></img>
 
