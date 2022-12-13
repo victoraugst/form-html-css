@@ -4,6 +4,8 @@ Projeto se trata de um formulário para inscrição em uma Newsletter (um tipo d
 
 <h1>Linguagens Utilizadas :</h1>
 
+<img src="preview.png"></img>
+
 <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <h2>Html utilizado na parte estrutural do site, campos de preenchimento(form) e o botão de enviar.</h2>
 
 
