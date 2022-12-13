@@ -1,6 +1,6 @@
 # Formulário em HTML e CSS
 
-Projeto se trata de um formulário para inscrição em uma Newsletter (um tipo de email informativo). Obs: Projeto criado apenas como design, sem parte funcional com JavaScript!
+<img class="chat" alt="HTML" height="15" width="15" src="https://www.iconsdb.com/icons/preview/white/warning-4-xxl.png"> Projeto se trata de um formulário para inscrição em uma Newsletter (um tipo de email informativo). Obs: Projeto criado apenas como design, sem parte funcional com JavaScript!
 
 <img src="preview.png"></img>
 
@@ -14,6 +14,5 @@ Projeto se trata de um formulário para inscrição em uma Newsletter (um tipo d
 
 
  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><h2>Css utilizado na estilização do site, cores, formatos e etc.</h2>
-
 
 Projeto criado por Victor Augusto, para fins de estudo e portfólio. ©
